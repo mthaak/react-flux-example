@@ -1,0 +1,17 @@
+{
+  "name": "react-flux-example",
+  "version": "0.0.1",
+  "description": "The most simple example of React + Flux in ES6.",
+  "author": "Martin ter Haak",
+  "dependencies": {
+    "react": "*",
+    "react-dom": "*",
+    "flux": "*"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "browserify": "*",
+    "reactify": "*",
+    "vinyl-source-stream": "*"
+  }
+}
